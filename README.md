@@ -4,12 +4,14 @@
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/600px-YouTube_social_white_squircle.svg.png" />][Youtube]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" />][Pinterest]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png" />][Spotify]
+[<img align="left" alt="GitHub" width="26px" src="https://2.bp.blogspot.com/-r3brlD_9eHg/XDz5bERnBMI/AAAAAAAAG2Y/XfivK0eVkiQej2t-xfmlNL6MlSQZkvcEACK4BGAYYCw/s1600/logo%2Breddit.png" />][Reddit]
 
 <br />
 
 [Youtube]: https://www.youtube.com/channel/UCpF1oTbjTcTsOiYZZTOuAcQ
 [Pinterest]: https://tr.pinterest.com/HeiFi0/
 [Spotify]: https://open.spotify.com/user/9s1or8skhwzs7aev1ca5zetmi?si=f0b0112e178b47dd
+[Reddit]: https://www.reddit.com/user/HeiFi0
 
 ### Languages:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
@@ -27,3 +29,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hei-Fi&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000_color=808080">
+
