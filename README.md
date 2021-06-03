@@ -2,7 +2,6 @@
 
 
 
-### 🌐 Social Media:
 
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/600px-YouTube_social_white_squircle.svg.png" />][Youtube]
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png" />][Pinterest]
@@ -29,4 +28,4 @@
 <br />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hei-Fi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=ff1551">
+<img src="https://github-readme-stats.vercel.app/api?username=Hei-Fi&&show_icons=true&title_color=000000&icon_color=000000&text_color=000000_color=808080">
